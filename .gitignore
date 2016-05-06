@@ -1,0 +1,7 @@
+# Emacs autosave file
+*~
+
+# Python
+__pycache__
+.pyc
+.pyd
